@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ggg p,td,th {
+  border: 1px solid black;
+}
+* {
+  text-transform: uppercase;
+}
